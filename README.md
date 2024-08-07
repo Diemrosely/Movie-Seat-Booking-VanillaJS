@@ -1,6 +1,6 @@
 ## Movie Seat Booking
 
-<div align="center" width="300px">
+<div align="center" width="200px">
     <img src="./assets/app.png" alt="App">
 </div>
 
