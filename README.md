@@ -1,6 +1,6 @@
 ## Movie Seat Booking
 
-<img width="100px" src="./assets/app.png">
+<img width="200px" src="./assets/app.png">
 
 [This application](https://diemrosely.github.io/Movie-Seat-Booking-VanillaJS/) displays movie choices and seats in a theater to select from in order to purchase tickets
 
