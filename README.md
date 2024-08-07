@@ -1,6 +1,8 @@
 ## Movie Seat Booking
 
-Display movie choices and seats in a theater to select from in order to purchase tickets
+!(./assets/app.png)
+
+![This application](https://diemrosely.github.io/Movie-Seat-Booking-VanillaJS/) displays movie choices and seats in a theater to select from in order to purchase tickets
 
 ## Project Specifications
 
@@ -10,5 +12,6 @@ Display movie choices and seats in a theater to select from in order to purchase
 - User can not select occupied seats
 - Number of seats and price will update
 - Save seats, movie and price to local storage so that UI is still populated on refresh
+
 
 
